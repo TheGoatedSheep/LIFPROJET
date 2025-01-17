@@ -1,0 +1,16 @@
+.indexDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.indexDiv >.icon {
+    font-size: 5rem;
+    padding: 1rem;
+    background-color: rgb(161, 161, 161);
+    border-radius: 10px;
+    color: white;
+}
