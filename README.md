@@ -1,7 +1,7 @@
 # LIFPROJET - CC2
 
 ## Installations
-Tout d'abord, comme notre projet utilise la librairie [React.js](https://react.dev/), vous devrez installer [node.js](https://nodejs.org/en/download)
+Tout d'abord, comme notre projet utilise la librairie [React.js](https://react.dev/), vous devrez installer [node.js](https://nodejs.org/en/download).
 
 ## Utilisation
 Pour utiliser le projet, vous devez lancer la commande suivante:
