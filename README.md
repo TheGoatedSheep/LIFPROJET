@@ -1,6 +1,13 @@
-# React + Vite
+# LIFPROJET - CC2
 
-Le pire readme que j'ai vu de ma vie.
+## Installations
+Tout d'abord, comme notre projet utilise la librairie [React.js](https://react.dev/), vous devrez installer [node.js](https://nodejs.org/en/download)
+
+## Utilisation
+Pour utiliser le projet, vous devez lancer la commande suivante:
+```bash
+npm run dev
+```
 
 Currently, two official plugins are available:
 
